@@ -4,6 +4,7 @@ import './App.css';
 class Profile extends Component {
     render() {
         let artist = {name: '', followers: {total: ''}, images : [{url : ''}], genres: []};
+        
         artist = this.props.artist !== null ? this.props.artist : artist;
 
         return (

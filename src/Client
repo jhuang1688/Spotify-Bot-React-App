@@ -22,7 +22,7 @@ curl -X "POST" -H "Authorization: Basic YzY4YTdkYmIwMTBhNDQwZGIwMTY5MDZkZmRkMDNk
 /****************************
 * Get AccessToken from terminal
 ****************************/
-curl -X "POST" -H "Authorization: Basic YzY4YTdkYmIwMTBhNDQwZGIwMTY5MDZkZmRkMDNkODE6YTUwM2ZiOWE3OTVkNDc0ZDg0YWFjNzBhMjM1NzNjOGE=" -d grant_type=client_credentials -d code=AQAR0VkWE8SLy2SkvLCirfO9kXuPLIEUE4IXHHXMRCOh8OPBxfsX9F5d_ZS999JqMmx2o7_333cunv4p3WlkS47un -d redirect_uri=http%3A%2F%2F192.168.1.6%3A3000 https://accounts.spotify.com/api/token
+curl -X "POST" -H "Authorization: Basic YzY4YTdkYmIwMTBhNDQwZGIwMTY5MDZkZmRkMDNkODE6YTUwM2ZiOWE3OTVkNDc0ZDg0YWFjNzBhMjM1NzNjOGE=" -d grant_type=client_credentials -d code=AQCdGdsqR0BJSYb_6QL9MXTq-vZDCmiCTIhf3bdEXTEH53Lpt4hUnWttpgkDxdeSoZ4kTwiYnF0BZy9sohj1dyNFt_8LA3mPPpM7yY--jUIxhnEKvtsvGg8gRloaS2iMWY-ht8XQ1xnKog_HOb1S8u2uZ_jTW1GRJnb3 -d redirect_uri=http%3A%2F%2F192.168.1.6%3A3000 https://accounts.spotify.com/api/token
 
 {
     "access_token":"BQAcAZWaQXKTTye3gyeOLlJeocNtQ1oqWUD3cq2V0NfI1qpdLfe9RmrqdkMRWdKL-patI3Z6ZrRSkzt8l5I",
