@@ -25,7 +25,7 @@ class App extends Component {
         fetch(FETCH_URL, {
             method:'GET',
             headers: new Headers({
-            'Authorization': 'Bearer BQCuYROu9SOgMYkKdqDtdY7To1k8Z4ZPNXDvMDlnnxJMTtJ_Ygivu2-FmiyAQAaErIpYh_eDnhlWFzHjnFY'
+            'Authorization': 'Bearer BQBF6la0ynhYHVqXTqX31Cceu5dDJxQZEldhhghEMUYROYFyGqSvS7j3uyBg6i_jdrsMxY8WEVH-cHHlVc0'
             }),
         })
         .then(response => response.json())
@@ -38,7 +38,7 @@ class App extends Component {
             fetch(FETCH_URL, {
                 method: 'GET',
                 headers: new Headers({
-                    'Authorization': 'Bearer BQCuYROu9SOgMYkKdqDtdY7To1k8Z4ZPNXDvMDlnnxJMTtJ_Ygivu2-FmiyAQAaErIpYh_eDnhlWFzHjnFY'
+                    'Authorization': 'Bearer BQBF6la0ynhYHVqXTqX31Cceu5dDJxQZEldhhghEMUYROYFyGqSvS7j3uyBg6i_jdrsMxY8WEVH-cHHlVc0'
                 }),
             })
             .then(response => response.json())
